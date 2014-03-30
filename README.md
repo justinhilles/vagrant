@@ -1,0 +1,4 @@
+vagrant
+=======
+
+Base Vagrant Install
